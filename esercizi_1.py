@@ -18,3 +18,5 @@ print(f"Once {author_name} said: \"{quote}\"")
 
 filename = "python_notes.txt"
 print(str.removesuffix(filename))
+
+print("Ciao lorenzo")
